@@ -1,0 +1,4 @@
+Algorithm,Silhouette Score,Davies-Bouldin
+K-Means,0.1056,2.426
+Agglomerative Clustering,0.1316,2.2658
+Gaussian Mixture Model (GMM),0.0834,2.7036
